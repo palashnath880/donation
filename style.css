@@ -113,3 +113,105 @@ a.btn{
 	font-size: 16px;
 	padding-bottom: 10px;
 }
+
+#donate-plan-area{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.donate-plan-content .donate-plan-text{
+	text-align: center;
+	margin: 0 auto;
+}
+
+.donate-plan-content .donate-plan-text h1{
+	font-size: 45px;
+	margin-bottom: 20px;
+}
+
+.donate-plan-content .donate-plan-text p{
+	font-size: 16px;
+	margin-bottom: 35px;
+}
+
+.donate-plan-items {
+	display: flex;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.donate-plan-items .donate-plan-item{
+	width: 32.33%;
+	margin-right: 1%;
+	padding: 45px 20px;
+	border-radius: 5px;
+	background-color: whitesmoke;
+}
+
+.donate-plan-items .donate-plan-item h2{
+	font-size: 24px;
+	color: #222831;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.donate-plan-items .donate-plan-item p{
+	font-size: 16px;
+	color: #222831;
+}
+
+.donate-plan-items #shelter{
+	background-color: rgba(255, 89, 89, 0.1);
+}
+.donate-plan-items #food{
+	background-color: rgba(255, 244, 214, 1);
+}
+.donate-plan-items #education{
+	background-color: rgba(79, 157, 166, 0.1);
+}
+
+#subscribe-area{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.subscribe-content form{
+	border-radius: 5px;
+	background-color: rgba(255, 244, 214, 1);
+	padding: 30px;
+	display: flex;
+}
+
+.subscribe-content form #email{
+
+}
+.subscribe-content form #submit-btn{
+	font-size: 16px;
+	padding: 10px 22px;
+	background-color: tomato;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	color: white;
+	border: none;
+}
+
+
+
+footer{
+	background-color: black;
+	padding: 35px 0px;
+	text-align: center;
+}
+
+footer h4{
+	margin: 0;
+	color: red;
+	font-size: 36px;
+	font-family: 'Lobster', cursive;
+	font-weight: 400;
+	margin-bottom: 10px;
+}
+footer p{
+	color: white;
+	font-size: 14px;
+}
